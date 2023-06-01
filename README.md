@@ -5,7 +5,7 @@ Autori: **Davide Leone aka scrapanzano.**
 
 Di seguito elencati i laboratorio con un riferimento al macro argomento su cui si concentrano:
 
-## Laboratorio 1
+## [Laboratorio 1](https://github.com/scrapanzano/LaboratoriEPS/tree/master/src/it/unibs/eps/lab1)
 Esercizi di ripasso riguardante l' I/O.
 
 ## [Laboratorio 2](https://github.com/scrapanzano/LaboratoriEPS/tree/master/src/it/unibs/eps/lab2)
