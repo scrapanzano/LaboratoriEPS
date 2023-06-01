@@ -14,6 +14,9 @@ public class NetworkInterfaces {
 		while(interfaces.hasMoreElements()) {
 			NetworkInterface iFace = interfaces.nextElement();
 			
+			System.out.println("Interfaccia: " + iFace.getName());
+			System.out.println("Display name: " + iFace.getDisplayName());
+			
 			Enumeration<InetAddress> addresses = iFace.getInetAddresses();
 			
 			while(addresses.hasMoreElements()) {
@@ -21,10 +24,10 @@ public class NetworkInterfaces {
 				
 				String ip = iAddr.getHostAddress();
 				
-				System.out.println(iFace.getDisplayName() + " " + ip);
+				System.out.println("Indirizzo ip: " + iFace.getDisplayName() + " " + ip);
 			}
 			
-			
+			System.out.println();	
 		}
 		
 	}
