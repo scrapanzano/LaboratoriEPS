@@ -29,5 +29,5 @@ Non esiste. Non sto scherzando.
 ## [Laboratorio 8](https://github.com/scrapanzano/LaboratoriEPS/tree/master/src/it/unibs/eps/lab8)
 Esercizi sulla programmazione concorrente: Thread.
 
-## [Laboratorio 9](https://github.com/scrapanzano/LaboratoriEPS/tree/master/src/it/unibs/eps/lab9/es1)
+## [Laboratorio 9](https://github.com/scrapanzano/LaboratoriEPS/tree/master/src/it/unibs/eps/lab9)
 Esercizi sulla programmazione di rete.
