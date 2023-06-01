@@ -15,8 +15,7 @@ public class Task implements Callable<InetAddress> {
 	@Override
 	public InetAddress call() {
 		try {
-			InetAddress ip = InetAddress.getByName(host);
-			return ip;
+			return InetAddress.getByName(host);
 		} 
 		catch (java.net.UnknownHostException e) {
 				System.err.println("L'indirizzo ip dell'host " + "\"" + host + "\"" + " è ignoto.");
